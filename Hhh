@@ -1,0 +1,9 @@
+# block list
+
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 google.com
+127.0.0.1 YouTube.com
+127.0.0.1 m.YouTube.com
+
